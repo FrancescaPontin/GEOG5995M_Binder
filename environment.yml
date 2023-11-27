@@ -10,7 +10,22 @@ dependencies:
   - plotly
   - statsmodels
   - scikit-learn
-
+  - geopandas
+  - shapely
+  - fiona
+  - pyproj
+  - pygeos
+  - rtree
+  - mapclassify
+  - libpysal
+  - geopy
+  - cartopy
+  - pyepsg
+  - contextily
+  - rasterio
+  - geoplot
+  - folium
+  - packaging
 
 
       
