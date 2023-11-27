@@ -1,6 +1,7 @@
 # GEOG5995M Programming for Social Science
  
 Binder link: 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FrancescaPontin/GEOG5995M_Binder/HEAD) 
 
 ## Materials for GEOG5995M
 
